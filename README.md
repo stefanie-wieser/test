@@ -90,10 +90,10 @@ Nun muss für unsere Todo – Liste nur noch der spezifische Code hinzugefügt w
 
 ## Why is Dart cool?
 
-    $ Hervorragende Alternative für Javascript basierende Entwicklungen.
-    $ Entwicklung einer strukturierten, aber auch flexiblen Programmiersprache für das Web.
-    $ Unterstützung durch Tools, mit deren Hilfe Dart auf allen gängigen Webbrowsern lauffähig ist.
-    $ Dient als Grundlage für Flutter, und somit für die Mobile App Entwicklung bestens geeignet.
+    - Hervorragende Alternative für Javascript basierende Entwicklungen.
+    - Entwicklung einer strukturierten, aber auch flexiblen Programmiersprache für das Web.
+    - Unterstützung durch Tools, mit deren Hilfe Dart auf allen gängigen Webbrowsern lauffähig ist.
+    - Dient als Grundlage für Flutter, und somit für die Mobile App Entwicklung bestens geeignet.
 
 ## Quellen und weiterführende Links
 
